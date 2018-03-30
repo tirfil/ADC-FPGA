@@ -1,0 +1,33 @@
+[*]
+[*] GTKWave Analyzer v3.3.68 (w)1999-2016 BSI
+[*] Wed Mar 28 14:12:30 2018
+[*]
+[dumpfile] "D:\Users\thirion2\Documents\Perso\cnc\vhdl\SIM\tb_pwm10b.ghw"
+[dumpfile_mtime] "Wed Mar 28 14:09:34 2018"
+[dumpfile_size] 54721
+[savefile] "D:\Users\thirion2\Documents\Perso\cnc\vhdl\SIM\pwm10b.gtkw"
+[timestart] 0
+[size] 1691 600
+[pos] -1 -1
+*-33.179714 41960000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_pwm10b.
+[treeopen] top.tb_pwm10b.i_pwm10b_0.
+[sst_width] 197
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+top.tb_pwm10b.running
+top.tb_pwm10b.pwm
+top.tb_pwm10b.tic
+top.tb_pwm10b.nrst
+@29
+top.tb_pwm10b.mclk
+@22
+#{top.tb_pwm10b.value[9:0]} top.tb_pwm10b.value[9] top.tb_pwm10b.value[8] top.tb_pwm10b.value[7] top.tb_pwm10b.value[6] top.tb_pwm10b.value[5] top.tb_pwm10b.value[4] top.tb_pwm10b.value[3] top.tb_pwm10b.value[2] top.tb_pwm10b.value[1] top.tb_pwm10b.value[0]
+#{top.tb_pwm10b.i_pwm10b_0.maximum[9:0]} top.tb_pwm10b.i_pwm10b_0.maximum[9] top.tb_pwm10b.i_pwm10b_0.maximum[8] top.tb_pwm10b.i_pwm10b_0.maximum[7] top.tb_pwm10b.i_pwm10b_0.maximum[6] top.tb_pwm10b.i_pwm10b_0.maximum[5] top.tb_pwm10b.i_pwm10b_0.maximum[4] top.tb_pwm10b.i_pwm10b_0.maximum[3] top.tb_pwm10b.i_pwm10b_0.maximum[2] top.tb_pwm10b.i_pwm10b_0.maximum[1] top.tb_pwm10b.i_pwm10b_0.maximum[0]
+@28
+top.tb_pwm10b.i_pwm10b_0.counter
+[pattern_trace] 1
+[pattern_trace] 0

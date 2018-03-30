@@ -1,0 +1,42 @@
+[*]
+[*] GTKWave Analyzer v3.3.68 (w)1999-2016 BSI
+[*] Wed Mar 28 12:22:55 2018
+[*]
+[dumpfile] "D:\Users\thirion2\Documents\Perso\cnc\vhdl\SIM\tb_adcin.ghw"
+[dumpfile_mtime] "Wed Mar 28 12:15:58 2018"
+[dumpfile_size] 4688
+[savefile] "D:\Users\thirion2\Documents\Perso\cnc\vhdl\SIM\tb_adcin.gtkw"
+[timestart] 0
+[size] 1746 600
+[pos] -1 -1
+*-29.372490 76000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_adcin.
+[treeopen] top.tb_adcin.i_adcin_0.
+[sst_width] 197
+[signals_width] 110
+[sst_expanded] 1
+[sst_vpaned_height] 187
+@28
+top.tb_adcin.running
+top.tb_adcin.sda
+top.tb_adcin.sck
+top.tb_adcin.nrst
+top.tb_adcin.mclk
+@22
+#{top.tb_adcin.adc1[9:0]} top.tb_adcin.adc1[9] top.tb_adcin.adc1[8] top.tb_adcin.adc1[7] top.tb_adcin.adc1[6] top.tb_adcin.adc1[5] top.tb_adcin.adc1[4] top.tb_adcin.adc1[3] top.tb_adcin.adc1[2] top.tb_adcin.adc1[1] top.tb_adcin.adc1[0]
+#{top.tb_adcin.adc2[9:0]} top.tb_adcin.adc2[9] top.tb_adcin.adc2[8] top.tb_adcin.adc2[7] top.tb_adcin.adc2[6] top.tb_adcin.adc2[5] top.tb_adcin.adc2[4] top.tb_adcin.adc2[3] top.tb_adcin.adc2[2] top.tb_adcin.adc2[1] top.tb_adcin.adc2[0]
+#{top.tb_adcin.adc3[9:0]} top.tb_adcin.adc3[9] top.tb_adcin.adc3[8] top.tb_adcin.adc3[7] top.tb_adcin.adc3[6] top.tb_adcin.adc3[5] top.tb_adcin.adc3[4] top.tb_adcin.adc3[3] top.tb_adcin.adc3[2] top.tb_adcin.adc3[1] top.tb_adcin.adc3[0]
+@28
+top.tb_adcin.i_adcin_0.stop_cond
+top.tb_adcin.i_adcin_0.start_cond
+@22
+#{top.tb_adcin.i_adcin_0.data[11:0]} top.tb_adcin.i_adcin_0.data[11] top.tb_adcin.i_adcin_0.data[10] top.tb_adcin.i_adcin_0.data[9] top.tb_adcin.i_adcin_0.data[8] top.tb_adcin.i_adcin_0.data[7] top.tb_adcin.i_adcin_0.data[6] top.tb_adcin.i_adcin_0.data[5] top.tb_adcin.i_adcin_0.data[4] top.tb_adcin.i_adcin_0.data[3] top.tb_adcin.i_adcin_0.data[2] top.tb_adcin.i_adcin_0.data[1] top.tb_adcin.i_adcin_0.data[0]
+@28
+top.tb_adcin.i_adcin_0.rise
+top.tb_adcin.i_adcin_0.fall
+top.tb_adcin.i_adcin_0.sda_ss
+top.tb_adcin.i_adcin_0.sck_ss
+top.tb_adcin.i_adcin_0.state
+[pattern_trace] 1
+[pattern_trace] 0

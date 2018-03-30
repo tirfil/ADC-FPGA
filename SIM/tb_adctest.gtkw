@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.68 (w)1999-2016 BSI
+[*] Wed Mar 28 14:43:54 2018
+[*]
+[dumpfile] "D:\Users\thirion2\Documents\Perso\cnc\vhdl\SIM\tb_adctest.ghw"
+[dumpfile_mtime] "Wed Mar 28 14:41:04 2018"
+[dumpfile_size] 100713
+[savefile] "D:\Users\thirion2\Documents\Perso\cnc\vhdl\SIM\tb_adctest.gtkw"
+[timestart] 0
+[size] 1730 714
+[pos] -1 -115
+*-34.987461 114600000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_adctest.
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 193
+@28
+top.tb_adctest.pwm3
+top.tb_adctest.pwm2
+top.tb_adctest.pwm1
+top.tb_adctest.sda
+top.tb_adctest.sck
+top.tb_adctest.nrst
+top.tb_adctest.mclk
+top.tb_adctest.i_adctest_0.tic
+[pattern_trace] 1
+[pattern_trace] 0
